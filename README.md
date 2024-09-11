@@ -41,5 +41,5 @@ This project serves as a foundation for exploring trend-following strategies. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adi-Bruce/tsla-trend-following.git
+   git clone https://github.com/Adi-Bruce/Trendfollowing .git
 
